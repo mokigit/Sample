@@ -21,6 +21,10 @@ public class Calc {
         // 割り算
         var result4 = num1 / num2;
         System.out.println(result4);
+        
+        // 剰余
+        var result5 = num1 % num2;
+        System.out.println(result5);
 
     }
 
