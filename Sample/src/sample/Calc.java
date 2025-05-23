@@ -25,6 +25,9 @@ public class Calc {
         // 剰余
         var result5 = num1 % num2;
         System.out.println(result5);
+        
+        // 文字列の連結
+        System.out.println("num1 + num2 = " + result1);
 
     }
 
